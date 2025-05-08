@@ -16,7 +16,7 @@ export default function Home() {
         <section id="home" className="flex flex-col-reverse lg:flex-row items-center gap-10">
           <div className="lg:w-1/2 space-y-6">
             <h2 className="text-4xl font-bold">Real People. Real Problems. Real Solutions.</h2>
-            <p>Join the Suttoneers in creating change that makes sense for everyone. From world peace to college affordability, we're here for you.</p>
+            <p>Join the Suttoneers in creating change that makes sense for everyone. From world peace to college affordability, we&apos;re here for you.</p>
             <button className="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg shadow">
               Get Involved
             </button>
@@ -84,8 +84,8 @@ export default function Home() {
           <h3 className="text-2xl font-bold">Candidate Speech</h3>
           <p>
             We are the Suttoneers and we are here to keep it real with you all.
-            Real people. Real problems. Real solutions. For too long, everyday people—
-            hard workers like us—have been told to settle for less. Less safety in our
+            Real people. Real problems. Real solutions. For too long, everyday people 
+            hard workers like us have been told to settle for less. Less safety in our
             communities. Less protection for our planet. Less financial security when
             we&apos;re simply trying to afford groceries while struggling to pay off
             our student loans. We refuse to accept that.
@@ -103,20 +103,21 @@ export default function Home() {
             responsibility.
           </p>
           <p>
-            And let’s not forget about the economy. No one should have to make the
+            And let&apos;s not forget about the economy. No one should have to make the
             impossible choice between feeding their family and paying off the debt
             that got them their education. The system should work for us, not
             against us. We need sustainable economic policies that actually make
             sense—ones that will help grow our communities together.
           </p>
           <p>
-            The Suttoneers are about solutions that work. No empty promises. No out‑of‑touch
+            The Suttoneers are about solutions that work. No empty promises. No out of touch
             policies. Just real change that makes a difference in the lives of real
             people. So, to everyone here today, this campaign is for you, because of
-            you. Let’s stand together, fight for what’s right, and build a future
-            that makes sense. Let’s get to work! Thank you!
+            you. Let&apos;s stand together, fight for what&apos;s right, and build a future
+            that makes sense. Let&apos;s get to work! Thank you!
           </p>
         </section>
+
       </main>
 
       {/* Footer */}
